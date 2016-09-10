@@ -1,0 +1,27 @@
+{
+  "name": "server-side-node-assigment1",
+  "version": "1.0.0",
+  "description": "Assigment 1 of the server side development course",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damanzano/server-side-node-assigment1.git"
+  },
+  "keywords": [
+    "node.js",
+    "server-side"
+  ],
+  "author": "David Andrés Manzano Herrera",
+  "bugs": {
+    "url": "https://github.com/damanzano/server-side-node-assigment1/issues"
+  },
+  "homepage": "https://github.com/damanzano/server-side-node-assigment1#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
